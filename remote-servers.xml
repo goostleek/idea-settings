@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="C:\Users\makl\.docker\machine\machines\mydocker" />
+        <option name="machine" value="mydocker" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
