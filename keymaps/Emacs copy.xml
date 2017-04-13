@@ -1,0 +1,5 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>
