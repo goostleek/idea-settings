@@ -17,6 +17,7 @@
               <AND>
                 <NAME>tableName</NAME>
                 <XML_ATTRIBUTE />
+                <XML_NAMESPACE>xmlns:.*</XML_NAMESPACE>
               </AND>
             </match>
           </rule>
@@ -27,6 +28,7 @@
               <AND>
                 <NAME>columnName</NAME>
                 <XML_ATTRIBUTE />
+                <XML_NAMESPACE>xmlns:.*</XML_NAMESPACE>
               </AND>
             </match>
           </rule>
