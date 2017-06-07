@@ -4,7 +4,7 @@
     <property name="created">2017-04-11T12:45:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-06-01T15:32:26</property>
+    <property name="modified">2017-06-07T11:33:47</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -15,6 +15,6 @@
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f2edd7" />
-    <option name="WHITESPACES" value="e6e6e6" />
+    <option name="WHITESPACES" value="cdcdcd" />
   </colors>
 </scheme>
