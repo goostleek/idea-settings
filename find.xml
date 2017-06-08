@@ -3,15 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Job.java" />
     <recentFileMasks>
-      <mask>*.x</mask>
-      <mask>*.class</mask>
-      <mask>*.clas</mask>
-      <mask>*.cla</mask>
-      <mask>*.cl</mask>
-      <mask>*.c</mask>
-      <mask>pom.xm</mask>
-      <mask>p</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -22,7 +15,6 @@
       <mask>*.</mask>
       <mask>*D.java</mask>
       <mask>*Dto.java</mask>
-      <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -32,8 +24,17 @@
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
-      <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.x</mask>
+      <mask>*</mask>
+      <mask>*J</mask>
+      <mask>*Jo</mask>
+      <mask>*Job</mask>
+      <mask>*Job.</mask>
+      <mask>*Job.ja</mask>
+      <mask>*Job.jav</mask>
+      <mask>*Job.java</mask>
     </recentFileMasks>
   </component>
 </application>
