@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[contract-core] - ...\contract-core\src\test\groovy\com\cargarantie\contract\core\contract\agreement\warranty\update\DictionaryTestHelper.groovy'" />
-    <option name="defaultScopeName" value="File '[contract-core] - ...\contract-core\src\test\groovy\com\cargarantie\contract\core\contract\agreement\warranty\update\DictionaryTestHelper.groovy'" />
-    <option name="SEARCH_SCOPE" value="File '[contract-core] - ...\contract-core\src\test\groovy\com\cargarantie\contract\core\contract\agreement\warranty\update\DictionaryTestHelper.groovy'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
