@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*IT.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.sq</mask>
       <mask>*.s</mask>
@@ -19,12 +19,7 @@
       <mask>*M.java</mask>
       <mask>*Mo.java</mask>
       <mask>*Model.java</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
       <mask>pom.xm</mask>
-      <mask>pom.x</mask>
       <mask>*</mask>
       <mask>*J</mask>
       <mask>*Jo</mask>
@@ -35,6 +30,11 @@
       <mask>*Job.java</mask>
       <mask>*.java</mask>
       <mask>*IT.java</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
