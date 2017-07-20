@@ -1,12 +1,28 @@
 <application>
   <component name="KeyPromoterStatistic">
     <option name="statistics">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
