@@ -88,6 +88,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ChangeLogRestControllerIT'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ChangeLogRestControllerIT'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Tests in 'C:\work\cgbs\cgbs-co...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
