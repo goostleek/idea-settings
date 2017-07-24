@@ -64,6 +64,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>CompileProject</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Rebuild Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
