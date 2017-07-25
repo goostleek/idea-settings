@@ -24,6 +24,52 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>44</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
+          <Description>Delete</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>CompileProject</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Rebuild Project</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic>
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Button1 Double-Click'</ShortCut>
+          <Description />
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare Previous File">
         <Item>
           <ShortCut>'Alt+Left' or 'Ctrl+X, P'</ShortCut>
@@ -52,7 +98,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
@@ -63,34 +109,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>43</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Delete">
-        <Item>
-          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
-          <Description>Delete</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide">
-        <Item>
-          <ShortCut>'Shift+Escape'</ShortCut>
-          <Description>Hide</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Mark Object...">
         <Item>
           <IdeaActionID>Debugger.MarkObject</IdeaActionID>
           <ShortCut>'F11'</ShortCut>
           <Description>Mark Object...</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Module Settings">
@@ -101,28 +125,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Open Console">
-        <Item>
-          <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Open Console</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Project">
-        <Item>
-          <IdeaActionID>CompileProject</IdeaActionID>
-          <ShortCut>'Alt+Shift+M'</ShortCut>
-          <Description>Rebuild Project</Description>
-          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ChangeLogModel.java'">
@@ -141,12 +149,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Delete'</ShortCut>
+          <Description>Remove</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -202,7 +218,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WarrantyAgreementRes...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'WarrantyAgreementRestControlle...'">
@@ -298,7 +314,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
