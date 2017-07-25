@@ -1,4 +1,9 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="x" />
+    <keyboard-shortcut first-keystroke="alt x" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
