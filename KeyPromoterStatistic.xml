@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare Next File">
         <Item>
           <IdeaActionID />
@@ -54,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>29</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -124,7 +132,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -180,7 +188,7 @@
           <IdeaActionID>$SearchWeb</IdeaActionID>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Search with Google</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
