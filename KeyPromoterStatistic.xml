@@ -24,6 +24,36 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
+          <Description>Delete</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>CompileProject</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Rebuild Project</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic>
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Button1 Double-Click'</ShortCut>
+          <Description />
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare Previous File">
         <Item>
           <ShortCut>'Alt+Left' or 'Ctrl+X, P'</ShortCut>
@@ -39,6 +69,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
@@ -47,26 +85,20 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>54</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Delete">
-        <Item>
-          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
-          <Description>Delete</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide">
-        <Item>
-          <ShortCut>'Shift+Escape'</ShortCut>
-          <Description>Hide</Description>
-          <Count>3</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -109,38 +141,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rebuild Project">
-        <Item>
-          <IdeaActionID>CompileProject</IdeaActionID>
-          <ShortCut>'Alt+Shift+M'</ShortCut>
-          <Description>Rebuild Project</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
-      <Statistic>
-        <Item>
-          <IdeaActionID />
-          <ShortCut>'Button1 Double-Click'</ShortCut>
-          <Description />
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Reference">
-        <Item>
-          <IdeaActionID>CopyReference</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
-          <Description>Copy Reference</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'Alt+D'</ShortCut>
-          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Recompile 'ChangeLogModel.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -170,7 +170,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -187,6 +187,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ChangeLogRestControllerIT'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClaimPositionCoverageIntegrati...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ClaimPositionCoverageIntegrati...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Read and update a ...()'">
