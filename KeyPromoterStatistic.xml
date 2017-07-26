@@ -59,7 +59,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic>
@@ -186,7 +186,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Read and update a ...()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Should check custo...()'">
@@ -234,7 +234,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'WarrantyAgreementRestControlle...'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Search History">
@@ -250,7 +250,7 @@
           <IdeaActionID>$SearchWeb</IdeaActionID>
           <ShortCut>'Alt+S'</ShortCut>
           <Description>Search with Google</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -322,7 +322,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
