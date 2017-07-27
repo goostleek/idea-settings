@@ -9,40 +9,11 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Delete">
-        <Item>
-          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
-          <Description>Delete</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic>
-        <Item>
-          <IdeaActionID />
-          <ShortCut>'Button1 Double-Click'</ShortCut>
-          <Description />
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Compare Next File">
-        <Item>
-          <ShortCut>'Alt+Right' or 'Ctrl+X, N'</ShortCut>
-          <Description>Compare Next File</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Compare Previous File">
-        <Item>
-          <ShortCut>'Alt+Left' or 'Ctrl+X, P'</ShortCut>
-          <Description>Compare Previous File</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -70,20 +41,57 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'Alt+D'</ShortCut>
-          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>72</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
+          <Description>Delete</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic>
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Button1 Double-Click'</ShortCut>
+          <Description />
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Next File">
+        <Item>
+          <ShortCut>'Alt+Right' or 'Ctrl+X, N'</ShortCut>
+          <Description>Compare Next File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Previous File">
+        <Item>
+          <ShortCut>'Alt+Left' or 'Ctrl+X, P'</ShortCut>
+          <Description>Compare Previous File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
