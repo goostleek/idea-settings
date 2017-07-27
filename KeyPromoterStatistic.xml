@@ -9,65 +9,11 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Compare Next File">
-        <Item>
-          <ShortCut>'Alt+Right' or 'Ctrl+X, N'</ShortCut>
-          <Description>Compare Next File</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Reference">
-        <Item>
-          <IdeaActionID>CopyReference</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
-          <Description>Copy Reference</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'Alt+D'</ShortCut>
-          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>63</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete">
         <Item>
           <ShortCut>'Delete' or 'Ctrl+D'</ShortCut>
           <Description>Delete</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Hide">
-        <Item>
-          <ShortCut>'Shift+Escape'</ShortCut>
-          <Description>Hide</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Open Console">
-        <Item>
-          <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
-          <Description>Open Console</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rebuild Project">
-        <Item>
-          <IdeaActionID>CompileProject</IdeaActionID>
-          <ShortCut>'Alt+Shift+M'</ShortCut>
-          <Description>Rebuild Project</Description>
-          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic>
@@ -86,6 +32,13 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare Next File">
+        <Item>
+          <ShortCut>'Alt+Right' or 'Ctrl+X, N'</ShortCut>
+          <Description>Compare Next File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare Previous File">
         <Item>
           <ShortCut>'Alt+Left' or 'Ctrl+X, P'</ShortCut>
@@ -101,12 +54,59 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WarrantyAgreementRestControlle...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Debug 'WarrantyAgreementRestControlle...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+G' or 'Escape, Period' or 'Alt+Period' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>72</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
+          <Description>Expand All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'Shift+Escape'</ShortCut>
+          <Description>Hide</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Mark Object...">
@@ -133,12 +133,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rebuild Project">
+        <Item>
+          <IdeaActionID>CompileProject</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Rebuild Project</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'ChangeLogModel.java'">
@@ -290,7 +306,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'All in claims-core'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in contract-core'">
