@@ -4,7 +4,7 @@
     <property name="created">2017-04-11T12:45:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-08-17T10:31:59</property>
+    <property name="modified">2017-08-18T11:50:24</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -15,7 +15,7 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f2edd7" />
-    <option name="WHITESPACES" value="cdcdcd" />
+    <option name="WHITESPACES" value="ff0000" />
   </colors>
   <attributes>
     <option name="REGEXP.OPTIONS">
