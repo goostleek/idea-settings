@@ -23,17 +23,17 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>pom.x</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.xml</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
+      <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
