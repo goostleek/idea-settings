@@ -6,7 +6,7 @@
         <option name="name" value="$default" />
       </KeymapDescription>
     </option>
-    <option name="fontSize" value="35" />
+    <option name="fontSize" value="36" />
     <option name="mainKeymap">
       <KeymapDescription>
         <option name="displayText" value="for Emacs" />
